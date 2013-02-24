@@ -1,4 +1,14 @@
-<?php $page=$_GET["page"];
+<?php 
+    $page="";
+    if(isset($_GET["page"]))
+    {
+        $page=$_GET["page"];
+    }
+    else
+    {
+        $page="about";
+    }
+
 
     /* Page map
     *  pages[page_from_GET][n]
@@ -33,10 +43,6 @@
 
         if(! $validPage)
             die("Invalid page!");
-    }
-    else
-    {
-        $page="about";
     }
 ?>
 <!DOCTYPE html>
