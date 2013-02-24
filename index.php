@@ -1,4 +1,4 @@
-<?php $page=$_GET["page"]   
+<?php $page=$_GET["page"];
 
     /* Page map
     *  pages[page_from_GET][n]
@@ -11,32 +11,32 @@
         "events" => Array("events.htm","Events"),
         "food" => Array("food.htm","Food"),
         "registration" => Array("registration.htm","Registration")
-        )
+        );
 
     //Hacky check
-    $validPage=false
+    $validPage=false;
     if(strlen($page) > 0)
     {
         /* Walk through supported
         *  pages and check we're being asked for
         *  a valid page.
         */
-        $validPage=false
-        foreach ($pages as $key => $value)
+        $validPage=false;
+        foreach($pages as $key => $value)
         {
             if($key == $page)
             {
-                $validPage=true
-                break
+                $validPage=true;
+                break;
             }
         }
 
         if(! $validPage)
-            die("Invalid page!")
+            die("Invalid page!");
     }
     else
     {
-        $page="about"
+        $page="about";
     }
 ?>
 <!DOCTYPE html>
@@ -63,7 +63,7 @@
   $(document).ready(function()
   {
     /* Set Default menu setup */
-    uuuMenuSetBreadcrumbs('<?php echo($pages[$page][1])  ?>');
+    uuuMenuSetBreadcrumbs('<?php echo($pages[$page][1]);  ?>');
   });
   </script>
         <div id="container">
@@ -95,7 +95,7 @@
           <section id="content">
           <noscript id="noscript_msg">We've detected Javascript is disabled in your browser. To get the best experience using this website please enable Javascript.
           </noscript>
-          <?php include($pages[$page][0]) ?>
+          <?php include($pages[$page][0]); ?>
           </section>
         
         </div>
