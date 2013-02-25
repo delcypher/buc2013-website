@@ -25,10 +25,10 @@ p
 
 #uuu_logo
 {
-  background-image: url(site_logo.gif);
+  background-image: url(banner.png);
   background-repeat: no-repeat;
-  margin: 10px auto 0px auto;
-  width: 800px;
+  margin: 5px auto 2px auto;
+  width: 1000px;
   height: 160px;
 }
 
