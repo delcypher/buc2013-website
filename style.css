@@ -119,6 +119,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', end
 {
   margin: auto;
   color: black;
+  padding: 0px 4px 0px 4px;
   max-width: 1024px;
 }
 
