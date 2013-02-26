@@ -54,7 +54,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>Union of UK Unicyclists</title>
+    <title>British Unicycle Convention 2013 | Cardiff</title>
     <!--[if lt IE 9]>
     <script src="js/html5shiv/html5shiv.js"></script>
     <![endif]-->
