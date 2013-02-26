@@ -18,6 +18,7 @@
     $pages = Array(
         "about" => Array("about.htm","About"),
         "accommodation" => Array("accommodation.htm","Accommodation"),
+        "dylan" => Array("dylan.htm","Dylan"),
         "events" => Array("events.htm","Events"),
         "food" => Array("food.htm","Food"),
         "registration" => Array("registration.htm","Registration"),
@@ -90,6 +91,8 @@
               </li>
 
               <li><a href="?page=accommodation">Accommodation</a>
+              </li>
+              <li><a href="?page=dylan">Dylan</a>
               </li>
               <li><a href="?page=events">Events</a>
               </li>
