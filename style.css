@@ -32,6 +32,39 @@ p
   height: 160px;
 }
 
+.infoBox
+{
+  border-radius: 20px;
+  padding: 1px 10px;
+  margin: 5px 0px;
+  color: white;
+}
+
+.infoBox h1
+{
+  font-size:200%;
+  text-align: center;
+}
+
+#logoContainer
+{
+  width:420px;
+  margin:auto;
+  padding: 10px 0px;
+}
+
+#logoContainer img
+{
+  margin: 0px 5px;
+}
+
+#twitter-widget-0, .twitter-timeline
+{
+  float:right;
+  margin: 5px 10px;
+}
+
+
 
 /* IE: Hide borders around linked images */
 #social_container a img
@@ -65,7 +98,7 @@ nav li, nav a
 }
 
 /* share backgrounds so bar adapts to screen size */
-nav, #top_level_nav
+nav, #top_level_nav, .infoBox
 {
   /* background: red; */
 background: rgb(255,0,0); /* Old browsers */
