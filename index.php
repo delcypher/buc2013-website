@@ -45,7 +45,7 @@
         }
 
         if(! $validPage)
-            die("Invalid page!");
+            $page="about";
     }
 ?>
 <!DOCTYPE html>
