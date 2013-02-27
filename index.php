@@ -80,11 +80,11 @@
             <div id="uuu_logo">
               <div id="reginfo"><p>Registration is currently CLOSED</p></div>
               <div id="social_container">
-              <a href="https://www.facebook.com/theunionofukunicyclists"><img src="facebook-icon.png"></a>
-              <a href="https://twitter.com/UUUnicyclists"><img src="twitter-icon.png"></a>
-              <a href="http://www.nofitstate.org/"><img src="nofitstate-logo-small.png"></a>
-              <a href="http://www.unicycle.uk.com/"><img src="udc-logo.png"></a>
-              <a href="http://www.voodoounicycles.com"><img src="voodoo-logo.png"></a>
+              <a href="https://www.facebook.com/theunionofukunicyclists"><img src="img/facebook-icon.png"></a>
+              <a href="https://twitter.com/UUUnicyclists"><img src="img/twitter-icon.png"></a>
+              <a href="http://www.nofitstate.org/"><img src="img/nofitstate-logo-small.png"></a>
+              <a href="http://www.unicycle.uk.com/"><img src="img/udc-logo.png"></a>
+              <a href="http://www.voodoounicycles.com"><img src="img/voodoo-logo.png"></a>
               </div>
             </div>
           </header>
