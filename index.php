@@ -77,12 +77,6 @@
         <div id="container">
           <header>
             <div id="uuu_logo"></div>
-            <div id="social_container">
-                <a href="http://www.unicycle.uk.com/"><img src="udc-logo.png"></a>
-                <a href="http://www.nofitstate.org/"><img src="nofitstate-logo.png"></a>
-                <a href="https://www.facebook.com/theunionofukunicyclists"><img src="facebook-icon.png"></a>
-                <a href="https://twitter.com/UUUnicyclists"><img src="twitter-icon.png"></a>
-            </div>
           </header>
 
           <nav>
