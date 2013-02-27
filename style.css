@@ -64,13 +64,19 @@ p
   margin: 5px 10px;
 }
 
-
+#social_container
+{
+  position: absolute;
+  right: 0px;
+  top:130px;
+  padding: 0px;
+  margin-right:5px;
+}
 
 /* IE: Hide borders around linked images */
 #social_container a img
 {
   border: none;
-  margin: 0px 1px;
 }
 
 nav
