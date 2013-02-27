@@ -23,7 +23,7 @@
         "events" => Array("events.htm","Events"),
         "food" => Array("food.htm","Food"),
         "registration" => Array("registration.htm","Registration"),
-        "travel" => Array("travel.htm","How to get there")
+        "location" => Array("location.htm","Location")
         );
 
     //Hacky check
@@ -104,7 +104,7 @@
               <li><a href="?page=food">Food</a>
               </li>
               
-              <li><a href="?page=travel">How to get there</a>
+              <li><a href="?page=location">Location</a>
               </li>
               <li><a href="?page=registration">Registration</a>
               </li>
