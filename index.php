@@ -78,7 +78,7 @@
         <div id="container">
           <header>
             <div id="uuu_logo">
-              <div id="reginfo"><p>Registration is not yet open</p></div>
+              <div id="reginfo"><p>Registration is now OPEN</p></div>
               <div id="social_container">
               <a href="https://www.facebook.com/theunionofukunicyclists"><img src="img/facebook-icon.png"></a>
               <a href="https://twitter.com/UUUnicyclists"><img src="img/twitter-icon.png"></a>

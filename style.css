@@ -94,11 +94,6 @@ p
   font-weight: bold;
 }
 
-#regtext, #regtext p
-{
-  text-decoration: line-through;
-}
-
 footer
 {
   clear:both;
