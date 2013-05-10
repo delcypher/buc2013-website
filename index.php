@@ -19,6 +19,7 @@
         "about" => Array("about.htm","About"),
         "accommodation" => Array("accommodation.htm","Accommodation"),
         "contact" => Array("contact.htm","Contact"),
+        "competitions" => Array("competitions.htm","Competitions"),
         "dylan" => Array("dylan.htm","Dylan"),
         "events" => Array("events.htm","Events"),
         "food" => Array("food.htm","Food"),
@@ -82,7 +83,7 @@
               <div id="social_container">
               <a href="https://www.facebook.com/theunionofukunicyclists"><img src="img/facebook-icon.png"></a>
               <a href="https://twitter.com/UUUnicyclists"><img src="img/twitter-icon.png"></a>
-              <a href="http://www.nofitstate.org/"><img src="img/nofitstate-logo-small.png"></a>
+              <a href="http://www.nofitstate.org/community"><img src="img/nofitstate-logo-small.png"></a>
               <a href="http://www.unicycle.uk.com/"><img src="img/udc-logo.png"></a>
               <a href="http://www.voodoounicycles.com"><img src="img/voodoo-logo.png"></a>
               </div>
@@ -97,6 +98,8 @@
               <li><a href="?page=accommodation">Accommodation</a>
               </li>
               <li><a href="?page=contact">Contact</a>
+              </li>
+              <li><a href="?page=competitions">Competitions</a>
               </li>
               <li><a href="?page=dylan">Dylan</a>
               </li>
