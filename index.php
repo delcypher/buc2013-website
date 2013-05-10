@@ -123,7 +123,8 @@
         
         </div>
         <footer>
-        &copy; Copyright 2013 Union of UK Unicyclists
+        &copy; Copyright 2013 Union of UK Unicyclists</br>
+        <a href="https://github.com/delcypher/buc2013-website">Get the source code</a>
         </footer>
   </body>
 </html>

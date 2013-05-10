@@ -181,13 +181,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', end
   max-width: 1024px;
 }
 
-#content a:link, #content a:visited
+#content a:link, #content a:visited, footer a:link, footer a:visited
 {
   color: black;
   text-decoration: underline;
 }
 
-#content a:hover
+#content a:hover, footer a:hover
 {
   color: red; 
   text-decoration: none;
