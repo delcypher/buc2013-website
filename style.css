@@ -3,11 +3,18 @@ body
   background: white;
   margin: 0px;
   font-family: 'Rambla', sans-serif;
+  font-size: normal;
 }
 
 h1
 {
   margin: 20px 0px 0px 0px;
+  font-size: 150%;
+}
+
+h2
+{
+  font-size: 110%;
 }
 
 
