@@ -24,6 +24,7 @@
         "events" => Array("events.htm","Events"),
         "food" => Array("food.htm","Food"),
         "registration" => Array("registration.htm","Registration"),
+        "results" => Array("results.htm","Results"),
         "location" => Array("location.htm","Location")
         );
 
@@ -79,7 +80,7 @@
         <div id="container">
           <header>
             <div id="uuu_logo">
-              <div id="reginfo"><p>Registration is now OPEN</p></div>
+              <div id="reginfo"><p>Registration is now CLOSED</p></div>
               <div id="social_container">
               <a href="https://www.facebook.com/theunionofukunicyclists"><img src="img/facebook-icon.png"></a>
               <a href="https://twitter.com/UUUnicyclists"><img src="img/twitter-icon.png"></a>
@@ -111,7 +112,7 @@
               
               <li><a href="?page=location">Location</a>
               </li>
-              <li><a href="?page=registration">Registration</a>
+              <li><a href="?page=results">Results</a>
               </li>
             </ul>
           </nav>
